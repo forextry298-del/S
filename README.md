@@ -1,6 +1,6 @@
 # NSLA Tyre Package Platform
 
-Blue-and-white, mobile-first Flask + SQLite web app with registration/login, referral codes, package catalog, package purchases, locked packages, account balance ledger, deposit/withdrawal requests, and admin review.
+Pink-and-white, mobile-first Flask + SQLite web app with registration/login, referral codes, package catalog, package purchases, locked packages, account balance ledger, deposit/withdrawal requests, and admin review.
 
 ## Run on Android (Termux)
 1. Put this folder at `~/NSLA`.
